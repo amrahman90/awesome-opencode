@@ -56,6 +56,7 @@
 |[opencode-notify](https://github.com/kdcokenny/opencode-notify)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-notify)|Native OS notifications for OpenCode – know when tasks complete.|
 |[opencode-workspace](https://github.com/kdcokenny/opencode-workspace)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-workspace)|Bundled multi-agent orchestration harness – 16 components, one install.|
 |[opencode-worktree](https://github.com/kdcokenny/opencode-worktree)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-worktree)|Zero-friction git worktrees for OpenCode. Auto-spawns terminals, syncs files, cleans up on exit.|
+|[opencode-morph-fast-apply](https://github.com/JRedeker/opencode-morph-fast-apply)|![GitHub Repo stars](https://badgen.net/github/stars/JRedeker/opencode-morph-fast-apply)|10x faster code editing with Morph Fast Apply API and lazy edit markers.|
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
