@@ -3,7 +3,7 @@ name: Auto-Generate README
 on:
   push:
     branches:
-      - shamanic/data-driven-automation
+      - main
     paths:
       - 'data/**'
 

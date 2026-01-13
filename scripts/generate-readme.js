@@ -6,7 +6,7 @@
  * generates HTML, and writes the final README.md
  */
 
-const fs = require('fs');
+
 const path = require('path');
 const { readYamlDir } = require('./utils/yaml');
 const { validateEntry, formatValidationErrors } = require('./utils/validation');
@@ -146,7 +146,7 @@ async function main() {
 // Execute main function
 main()
   .then(({ totalEntries, categoryCount, errorCount }) => {
-    process.exit(errorCount > 0 ? 0 : 0);
+    process.exit(errorCount > 0 ? 1 : 0);
   })
   .catch(err => {
     console.error('\n❌ Generation failed:', err.message);
