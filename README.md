@@ -323,6 +323,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode Snippets</b> <img src="https://badgen.net/github/stars/JosXa/opencode-snippets" height="14"/> - <i>Instant inline text expansion</i></summary>
+  <blockquote>
+    Instant inline text expansion for OpenCode. Type #snippet anywhere in your message and watch it transform. Brings DRY principles to prompt engineering with composable, shell-enabled snippets.
+    <br><br>
+    <a href="https://github.com/JosXa/opencode-snippets">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Synced</b> <img src="https://badgen.net/github/stars/iHildy/opencode-synced" height="14"/> - <i>Sync configs across machines</i></summary>
   <blockquote>
     Enables syncing global opencode configurations across machines with public/private visibility options.
